@@ -1,9 +1,9 @@
-# Tic Tac Toe
+# MixCentro
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama) [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 [![GitHub forks](https://img.shields.io/github/forks/S-ayanide/Flutter-TicTacToe.svg?style=social)](https://github.com/S-ayanide/Flutter-TicTacToe/network) [![GitHub stars](https://img.shields.io/github/stars/S-ayanide/Flutter-TicTacToe.svg?style=social)](https://github.com/S-ayanide/Flutter-TicTacToe/stargazers) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![GitHub license](https://img.shields.io/github/license/S-ayanide/Flutter-TicTacToe.svg?style=for-the-badge)](https://github.com/S-ayanide/Flutter-TicTacToe/blob/master/LICENSE)
 
-A Tic Tac Toe Flutter game which auto resets after you win, it also has a reset everything feature. ⭕️ ✖️
+A Progressive Web App which let's you play with different music and create your own by mixing them.
 ### 👉 If you like this repo then please give it a ⭐️
 
 ## Short Description
@@ -31,10 +31,9 @@ This project is subject to change by the developer and is still in development
 Running this is as simple as it gets. Follow this steps
 1. Open your terminal (NOTE: git bash prefered/ Terminal on VS Code)
 2. Navigate to the project folder where you have cloned this repo.
-3. Open an emulator or plug in a real device
-4. Type the following command in the terminal 
+3. Type the following command in the terminal 
      ```
-     flutter run
+     yarn start
      ```
      
 ## Pull Request
@@ -69,4 +68,4 @@ limitations under the License.
 ```
 
 ## Getting Started
-For help getting started with Flutter, view our online [documentation](https://flutter.dev/docs).
+For help getting started with PWA, [Check this out](https://developers.google.com/web/progressive-web-apps/).
