@@ -1,0 +1,11 @@
+{
+  "name": "MixCentro",
+  "version": "1.0.0",
+  "description": "A Music App to mix different music",
+  "main": "index.js",
+  "author": "Sayan Mondal",
+  "license": "MIT",
+  "dependencies": {
+    "serve": "^11.1.0"
+  }
+}
