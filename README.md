@@ -19,6 +19,7 @@ This is a simple Progressive Web App which can simulate a musical environment an
      width="186"/> 
      <img src="images/Prototype/install.PNG"
      alt="Home Screen"
+     style="float: right;"
      width="300"/> 
      
 ## NOTE:
