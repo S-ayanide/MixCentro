@@ -1,7 +1,7 @@
 # MixCentro
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama) [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
-[![GitHub forks](https://img.shields.io/github/forks/S-ayanide/Flutter-TicTacToe.svg?style=social)](https://github.com/S-ayanide/Flutter-TicTacToe/network) [![GitHub stars](https://img.shields.io/github/stars/S-ayanide/Flutter-TicTacToe.svg?style=social)](https://github.com/S-ayanide/Flutter-TicTacToe/stargazers) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[![GitHub license](https://img.shields.io/github/license/S-ayanide/Flutter-TicTacToe.svg?style=for-the-badge)](https://github.com/S-ayanide/Flutter-TicTacToe/blob/master/LICENSE)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama) [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/) [![GitHub issues](https://img.shields.io/github/issues/S-ayanide/MixCentro)](https://github.com/S-ayanide/MixCentro/issues)
+[![GitHub forks](https://img.shields.io/github/forks/S-ayanide/MixCentro?style=social)](https://github.com/S-ayanide/MixCentro/network) [![GitHub stars](https://img.shields.io/github/stars/S-ayanide/MixCentro?style=social)](https://github.com/S-ayanide/MixCentro/stargazers) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![GitHub license](https://img.shields.io/github/license/S-ayanide/MixCentro?style=for-the-badge)](https://github.com/S-ayanide/MixCentro/blob/master/LICENSE)
 
 A Progressive Web App which let's you play with different music and create your own by mixing them.
 ### 👉 If you like this repo then please give it a ⭐️
@@ -46,10 +46,10 @@ Pull Requests are welcome. Please follow these rules for the ease of understandi
 ## Developed & Maintained by
 [Sayan Mondal](https://github.com/S-ayanide) 
 [📷 Insta](https://www.instagram.com/s_ayanide/)
-[🐤 Twitter](https://www.instagram.com/s_ayanide/) [![Twitter](https://img.shields.io/twitter/url/https/github.com/S-ayanide/Flutter-TicTacToe/blob/master/README.md.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FS-ayanide%2FFlutter-TicTacToe%2Fblob%2Fmaster%2FREADME.md)
+[🐤 Twitter](https://www.instagram.com/s_ayanide/) [![Twitter](https://img.shields.io/twitter/url/https/github.com/S-ayanide/MixCentro?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FS-ayanide%2FMixCentro)
 
 ## License 
-[![GitHub license](https://img.shields.io/github/license/S-ayanide/Flutter-TicTacToe.svg?style=for-the-badge)](https://github.com/S-ayanide/Flutter-TicTacToe/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/S-ayanide/MixCentro?style=for-the-badge)](https://github.com/S-ayanide/MixCentro/blob/master/LICENSE)
 ```Copyright 2019 Sayan Mondal
 
 Licensed under the Apache License, Version 2.0 (the "License");
