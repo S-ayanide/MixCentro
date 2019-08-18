@@ -7,7 +7,7 @@ A Progressive Web App which let's you play with different music and create your 
 ### 👉 If you like this repo then please give it a ⭐️
 
 ## Short Description
-This Flutter game is a very famous yet easy start for beginners. Its a Tic Tac Toe game which is built using one Stateless and a Stateful widget, You can change the assets if you wish too, everything is properly documented including the game logic and the state changes, It has a delay feature which auto resets the game after a winner is declared, you can also manually reset the game if you want to.
+This is a simple Progressive Web App which can simulate a musical environment and users can interact with this app to play different music and mix them up to create some of their own. This application is made for entertainment purposes only.
 
 ## Screenshots
 <img src="images/Capture1.PNG"
