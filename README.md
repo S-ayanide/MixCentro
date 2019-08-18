@@ -12,14 +12,15 @@ This is a simple Progressive Web App which can simulate a musical environment an
 ## Screenshots
 <img src="images/Prototype/mixcentro.PNG"
      alt="Home Screen"
-     style="float: left; margin-right: 10px;"
-     width="200"/> <img src="images/Prototype/mobileCompatibility.PNG"
+     style="float: left; margin-right: 10px;"/> 
+     <img src="images/Prototype/mobileCompatibility.PNG"
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
-     width="186"/> <img src="images/Prototype/install.PNG"
+     width="186"/> 
+     <img src="images/Prototype/install.PNG"
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
-     width="189"/> 
+     /> 
      
 ## NOTE:
 This project is subject to change by the developer and is still in development
