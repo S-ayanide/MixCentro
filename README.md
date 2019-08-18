@@ -10,10 +10,7 @@ A Progressive Web App which let's you play with different music and create your 
 This is a simple Progressive Web App which can simulate a musical environment and users can interact with this app to play different music and mix them up to create some of their own. This application is made for entertainment purposes only.
 
 ## Screenshots
-<img src="images/Capture1.PNG"
-     alt="Home Screen"
-     style="float: left; margin-right: 10px;"
-     width="200"/> <img src="images/Prototype/mixcentro.PNG"
+<img src="images/Prototype/mixcentro.PNG"
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
      width="200"/> <img src="images/Prototype/mobileCompatibility.PNG"
