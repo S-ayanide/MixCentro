@@ -31,7 +31,7 @@ Running this is as simple as it gets. Follow this steps
 2. Navigate to the project folder where you have cloned this repo.
 3. Type the following command in the terminal 
      ```
-     yarn start
+     npx serve
      ```
      
 ## Pull Request
