@@ -1,16 +1,16 @@
-const staticAssets=[
+const staticAssets = [
     './',
-    './style.css',
-    './index.js',
-    './sounds/bubbles.mp3',
-    './sounds/clay.mp3',
-    './sounds/confetti.mp3',
-    './sounds/glimmer.mp3',
-    './sounds/moon.mp3',
-    './sounds/ufo.mp3'
+    './assets/css/style.css',
+    './assets/js/index.js',
+    './assets/audio/bubbles.mp3',
+    './assets/audio/clay.mp3',
+    './assets/audio/confetti.mp3',
+    './assets/audio/glimmer.mp3',
+    './assets/audio/moon.mp3',
+    './assets/audio/ufo.mp3'
 ];
 
-self.addEventListener('install', async event=>{
+self.addEventListener('install', async event => {
     const cache = await caches.open('static-cache');
     cache.addAll(staticAssets);
 });
@@ -19,19 +19,19 @@ self.addEventListener('fetch', event => {
     const req = event.request;
     const url = new URL(req.url);
 
-    if(url.origin === location.url){
+    if (url.origin === location.url) {
         event.respondWith(cacheFirst(req));
     } else {
-        event.respondWith(newtorkFirst(req));
+        event.respondWith(networkFirst(req));
     }
 });
 
-async function cacheFirst(req){
+async function cacheFirst(req) {
     const cachedResponse = caches.match(req);
     return cachedResponse || fetch(req);
 }
 
-async function newtorkFirst(req){
+async function networkFirst(req) {
     const cache = await caches.open('dynamic-cache');
 
     try {

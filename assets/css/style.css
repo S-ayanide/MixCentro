@@ -6,7 +6,7 @@
 
 body {
   font-family: 'Lexend Exa', sans-serif;
-  background: url('./images/bg/background.jpg');
+  background: url('../img/bg/background.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   color: wheat;
@@ -21,12 +21,13 @@ body {
 }
 
 header h1 {
-  margin: 50px 0px 20px 0px;
+  margin: 50px 0 20px 0;
   text-align: center;
   padding: 2rem;
   background: black;
   font-size: 40px;
 }
+
 header p {
   font-size: 25px;
   color: black;
@@ -39,21 +40,21 @@ header p {
   margin-bottom: 150px;
 }
 
-.pad-top{
+.pad-top {
   display: flex;
 }
 
-.pad-bottom{
+.pad-bottom {
   display: flex;
 }
 
-.pad-top > div {
+.pad-top>div {
   height: 100px;
   width: 100px;
   flex: 1;
 }
 
-.pad-bottom > div {
+.pad-bottom>div {
   height: 100px;
   width: 100px;
   flex: 1;
@@ -62,30 +63,37 @@ header p {
 .pad1 {
   background: #60d394;
 }
+
 .pad2 {
   background: #d36060;
 }
+
 .pad3 {
   background: #c060d3;
 }
+
 .pad4 {
   background: #d3d160;
 }
+
 .pad5 {
   background: #606bd3;
 }
+
 .pad6 {
   background: #60c2d3;
 }
 
-@media (max-width: 480px){
-  header h1{
+@media (max-width: 480px) {
+  header h1 {
     font-size: 35px;
   }
-  header p{
+
+  header p {
     font-size: 16px;
   }
-  .pads{
+
+  .pads {
     margin-bottom: 100px;
   }
 }

@@ -10,30 +10,22 @@ A Progressive Web App which let's you play with different music and create your 
 This is a simple Progressive Web App which can simulate a musical environment and users can interact with this app to play different music and mix them up to create some of their own. This application is made for entertainment purposes only.
 
 ## Screenshots
-<img src="images/Prototype/mixcentro.PNG"
-     alt="Home Screen"
-     style="float: left; margin-right: 10px;"/> 
-     <img src="images/Prototype/mobileCompatibility.PNG"
-     alt="Home Screen"
-     style="float: left; margin-right: 10px;"
-     width="186"/> 
-     <img src="images/Prototype/install.PNG"
-     alt="Home Screen"
-     style="float: right;"
-     width="300"/> 
-     
+<img src=".github/mixcentro.png" alt="Home Screen" style="float: left; margin-right: 10px;"/>
+<img src=".github/mobile-compatibility.png" alt="Mobile Version" style="float: left; margin-right: 10px;" width="186"/>
+<img src=".github/install.png" alt="Install Screen" style="float: right;" width="300"/>
+
 ## NOTE:
 This project is subject to change by the developer and is still in development
 
 ## How to run this
 Running this is as simple as it gets. Follow this steps
-1. Open your terminal (NOTE: git bash prefered/ Terminal on VS Code)
+1. Open your terminal (NOTE: git bash preferred/ Terminal on VS Code)
 2. Navigate to the project folder where you have cloned this repo.
-3. Type the following command in the terminal 
+3. Type the following command in the terminal
      ```
      npx serve
      ```
-     
+
 ## Pull Request
 
 Pull Requests are welcome. Please follow these rules for the ease of understanding:
@@ -44,13 +36,13 @@ Pull Requests are welcome. Please follow these rules for the ease of understandi
 #### Feel free to contribute
 
 ## Developed & Maintained by
-[Sayan Mondal](https://github.com/S-ayanide) 
-[📷 Insta](https://www.instagram.com/s_ayanide/)
-[🐤 Twitter](https://www.instagram.com/s_ayanide/) [![Twitter](https://img.shields.io/twitter/url/https/github.com/S-ayanide/MixCentro?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FS-ayanide%2FMixCentro)
+[Sayan Mondal](https://github.com/S-ayanide) [📷 Insta](https://www.instagram.com/s_ayanide/) [🐤 Twitter](https://www.instagram.com/s_ayanide/) [![Twitter](https://img.shields.io/twitter/url/https/github.com/S-ayanide/MixCentro?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FS-ayanide%2FMixCentro)
 
-## License 
+## License
 [![GitHub license](https://img.shields.io/github/license/S-ayanide/MixCentro?style=for-the-badge)](https://github.com/S-ayanide/MixCentro/blob/master/LICENSE)
-```Copyright 2019 Sayan Mondal
+
+```
+Copyright 2019 Sayan Mondal
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
