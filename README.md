@@ -26,7 +26,7 @@ Testing this is as simple as it gets. Follow this steps
      yarn add serve
      yarn serve
      ```
-4. Visit the localhost to see your PWA in action or visit [MixCentro on Netlify](http://mixcentro-netlify.com)
+4. Visit the localhost to see your PWA in action or visit [MixCentro on Netlify](http://mixcentro.netlify.com)
   
 ## Pull Request
 
