@@ -1,42 +1,31 @@
-# Tic Tac Toe
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama) [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
-[![GitHub forks](https://img.shields.io/github/forks/S-ayanide/Flutter-TicTacToe.svg?style=social)](https://github.com/S-ayanide/Flutter-TicTacToe/network) [![GitHub stars](https://img.shields.io/github/stars/S-ayanide/Flutter-TicTacToe.svg?style=social)](https://github.com/S-ayanide/Flutter-TicTacToe/stargazers) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[![GitHub license](https://img.shields.io/github/license/S-ayanide/Flutter-TicTacToe.svg?style=for-the-badge)](https://github.com/S-ayanide/Flutter-TicTacToe/blob/master/LICENSE)
+# MixCentro
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama) [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/) [![GitHub issues](https://img.shields.io/github/issues/S-ayanide/MixCentro)](https://github.com/S-ayanide/MixCentro/issues)
+[![GitHub forks](https://img.shields.io/github/forks/S-ayanide/MixCentro?style=social)](https://github.com/S-ayanide/MixCentro/network) [![GitHub stars](https://img.shields.io/github/stars/S-ayanide/MixCentro?style=social)](https://github.com/S-ayanide/MixCentro/stargazers) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![GitHub license](https://img.shields.io/github/license/S-ayanide/MixCentro?style=for-the-badge)](https://github.com/S-ayanide/MixCentro/blob/master/LICENSE)
 
-A Tic Tac Toe Flutter game which auto resets after you win, it also has a reset everything feature. ⭕️ ✖️
+A Progressive Web App which let's you play with different music and create your own by mixing them.
 ### 👉 If you like this repo then please give it a ⭐️
 
 ## Short Description
-This Flutter game is a very famous yet easy start for beginners. Its a Tic Tac Toe game which is built using one Stateless and a Stateful widget, You can change the assets if you wish too, everything is properly documented including the game logic and the state changes, It has a delay feature which auto resets the game after a winner is declared, you can also manually reset the game if you want to.
+This is a simple Progressive Web App which can simulate a musical environment and users can interact with this app to play different music and mix them up to create some of their own. This application is made for entertainment purposes only.
 
 ## Screenshots
-<img src="images/Capture1.PNG"
-     alt="Home Screen"
-     style="float: left; margin-right: 10px;"
-     width="200"/> <img src="images/Capture2.PNG"
-     alt="Home Screen"
-     style="float: left; margin-right: 10px;"
-     width="200"/> <img src="https://media.giphy.com/media/g4M22Wl29fexgv34g7/200w_d.gif"
-     alt="Home Screen"
-     style="float: left; margin-right: 10px;"
-     width="186"/> <img src="https://media.giphy.com/media/pzdFUO8zPdUhVMpWeX/200w_d.gif"
-     alt="Home Screen"
-     style="float: left; margin-right: 10px;"
-     width="189"/> 
-     
+<img src=".github/mixcentro.png" alt="Home Screen" style="float: left; margin-right: 10px;"/>
+<img src=".github/mobile-compatibility.png" alt="Mobile Version" style="float: left; margin-right: 10px;" width="186"/>
+<img src=".github/install.png" alt="Install Screen" style="float: right;" width="300"/>
+
 ## NOTE:
 This project is subject to change by the developer and is still in development
 
 ## How to run this
 Running this is as simple as it gets. Follow this steps
-1. Open your terminal (NOTE: git bash prefered/ Terminal on VS Code)
+1. Open your terminal (NOTE: git bash preferred/ Terminal on VS Code)
 2. Navigate to the project folder where you have cloned this repo.
-3. Open an emulator or plug in a real device
-4. Type the following command in the terminal 
+3. Type the following command in the terminal
      ```
-     flutter run
+     npx serve
      ```
-     
+
 ## Pull Request
 
 Pull Requests are welcome. Please follow these rules for the ease of understanding:
@@ -47,13 +36,13 @@ Pull Requests are welcome. Please follow these rules for the ease of understandi
 #### Feel free to contribute
 
 ## Developed & Maintained by
-[Sayan Mondal](https://github.com/S-ayanide) 
-[📷 Insta](https://www.instagram.com/s_ayanide/)
-[🐤 Twitter](https://www.instagram.com/s_ayanide/) [![Twitter](https://img.shields.io/twitter/url/https/github.com/S-ayanide/Flutter-TicTacToe/blob/master/README.md.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FS-ayanide%2FFlutter-TicTacToe%2Fblob%2Fmaster%2FREADME.md)
+[Sayan Mondal](https://github.com/S-ayanide) [📷 Insta](https://www.instagram.com/s_ayanide/) [🐤 Twitter](https://www.instagram.com/s_ayanide/) [![Twitter](https://img.shields.io/twitter/url/https/github.com/S-ayanide/MixCentro?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FS-ayanide%2FMixCentro)
 
-## License 
-[![GitHub license](https://img.shields.io/github/license/S-ayanide/Flutter-TicTacToe.svg?style=for-the-badge)](https://github.com/S-ayanide/Flutter-TicTacToe/blob/master/LICENSE)
-```Copyright 2019 Sayan Mondal
+## License
+[![GitHub license](https://img.shields.io/github/license/S-ayanide/MixCentro?style=for-the-badge)](https://github.com/S-ayanide/MixCentro/blob/master/LICENSE)
+
+```
+Copyright 2019 Sayan Mondal
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -69,4 +58,4 @@ limitations under the License.
 ```
 
 ## Getting Started
-For help getting started with Flutter, view our online [documentation](https://flutter.dev/docs).
+For help getting started with PWA, [Check this out](https://developers.google.com/web/progressive-web-apps/).
